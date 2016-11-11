@@ -1,0 +1,36 @@
+i: /usr/home/rafal/.wbar_cfg/icons/wbar.png
+c: wbar --bpress --above-desk --nofont --pos bottom --offset 3 --isize 50 --idist 5 --nanim 2 --zoomf 1.700000 --balfa 33
+t: /usr/share/fonts/TTF/dejavu/DejaVuSerif/20
+
+i: /usr/home/rafal/.wbar_cfg/icons/opera.png
+c: opera
+t: Opera
+
+i: /usr/home/rafal/.wbar_cfg/icons/chrome.png
+c: chrome
+t: Chrome
+
+i: /usr/home/rafal/.wbar_cfg/icons/eclipse.png
+c: eclipse
+t: Eclipse
+
+i: /usr/home/rafal/.wbar_cfg/icons/intellij.png
+c: intellij
+t: JntelliJ
+
+i: /usr/home/rafal/.wbar_cfg/icons/vim.png
+c: gvim
+t: Vim
+
+i: /usr/home/rafal/.wbar_cfg/icons/mplayer.png
+c: smplayer
+t: Mplayer
+
+i: /usr/home/rafal/.wbar_cfg/icons/Eterm.png
+c: Eterm
+t: Terminal
+
+i: /usr/home/rafal/.wbar_cfg/icons/virtualbox.png
+c: virtualbox
+t: Virtualbox
+
